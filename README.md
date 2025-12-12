@@ -3,7 +3,7 @@
 **A Comprehensive Business Management Solution**
 *Built with React.js, Tailwind CSS, and Framer Motion*
 
-![Dashboard Preview](PLACEHOLDER_FOR_DASHBOARD_IMAGE)
+![Dashboard Preview](screenshots/dashboard.png)
 
 ## 📋 Overview
 Lomash CRM System is a high-performance, modern web application designed to streamline business operations. It combines powerful **Customer Relationship Management (CRM)** features with robust **HRMS (Human Resource Management)** and **ERP** capabilities. 
@@ -93,7 +93,21 @@ This project is optimized for Netlify.
 ---
 
 ## 📸 Screenshots
-*(Screenshots will be added here)*
+
+### 🖥️ Dashboard - High Tech Analytics
+![Dashboard](screenshots/dashboard.png)
+
+### 📂 Projects - Progress Tracking
+![Projects](screenshots/projects.png)
+
+### 👥 Customer Management with Bulk Import
+![Customers](screenshots/customers.png)
+
+### 📈 Leads Pipeline
+![Leads](screenshots/leads.png)
+
+### ✅ Task Management
+![Tasks](screenshots/tasks.png)
 
 ---
 
